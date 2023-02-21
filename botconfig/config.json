@@ -1,0 +1,39 @@
+{
+   "token": "MTA1ODk4MDUxNTcwNjg0MzIzNg.GiYADa.7KuQCoU7dCHSwiAdOi4",
+   "prefix": ".",
+   "ownerIDS": [
+      "1058927354791075942",
+      "708727559432699994"
+   ],
+   "memer_api": "6dUNoBMvn69",
+   "status": {
+      "text": "{prefix} help | {name}",
+      "text2": "over CPF Developments",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node1.roverdev.xyz",
+            "port": 2334,
+            "password": "discord.gg/roverdev"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "498f461b962443cfaf9539c610e2ea81",
+      "clientID": "e6f84fbec2b44a77bf35a20c5ffa54b8"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
